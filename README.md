@@ -189,6 +189,5 @@ In this study, we aimed to predict the success or failure of Kickstarter campaig
 
 2. _Value of k in k nearest neighbor algorithm_. Stack Overflow. (2012, July 19). https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm 
 
-# Video Link:
-> <=5 min presentation video with a demo addressing the rubric
-https://www.youtube.com/watch?v=
+# Presentation
+Link: [https://youtu.be/R2JwlIiINVA](https://youtu.be/R2JwlIiINVA)
