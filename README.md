@@ -29,7 +29,7 @@
   - [Study Findings](#study-findings)
 - [Discussion](#discussion)
 - [Summary](#summary)
-- [Video Link:](#video-link)
+- [Presentation](#presentation)
 
 # Introduction
 
