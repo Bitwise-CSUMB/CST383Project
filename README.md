@@ -29,6 +29,7 @@
   - [Study Findings](#study-findings)
 - [Discussion](#discussion)
 - [Summary](#summary)
+- [References](#references)
 - [Presentation](#presentation)
 
 # Introduction
