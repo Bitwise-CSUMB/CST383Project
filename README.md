@@ -19,7 +19,7 @@
   - [Tools and Algorithms Used](#tools-and-algorithms-used)
     - [Tools](#tools)
     - [Classification Algorithms](#classification-algorithms)
-  - [Selecting our parameters](#selecting-our-parameters)
+  - [Selecting our Parameters](#selecting-our-parameters)
   - [Decision Tree Optimal Parameters Loop Ranges](#decision-tree-optimal-parameters-loop-ranges)
 - [Results](#results)
   - [Accuracy of Decision Tree](#accuracy-of-decision-tree)
@@ -115,7 +115,7 @@ Considering our goal is to classify Kickstarter projects as "success" or "failed
 * Decision Tree
 * KNeighbors
 
-## Selecting our parameters
+## Selecting our Parameters
 * Decision Tree: In order to select the best argument values for our Decision Tree algorithm, we chose to run a looped training routine that utilized the ``cross_val_score`` function. For each run we altered which argument we were testing while applying the previously determined best values for any remaining arguments. This was then repeated for each argument in order to get an optimal output. This form of serially testing argument values was chosen instead of running every combination of argument values together in a single loop in order to save on computation time.
 * KNeighbor Classification: The primary arguments we could change with this classification algorithm were the selection of features, and the neighbor value. For the neighbor value we settled on the square root of the dataset's sample size, which is a known general rule of thumb<sup>2</sup>. For determining the classification algorithm's feature set we utilized the same combination testing algorithm that was used with determining the Decision Trees feature set.
 
